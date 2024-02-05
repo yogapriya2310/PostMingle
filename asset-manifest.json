@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/PostMingle/static/css/main.b9f6d1d0.css",
+    "main.css": "/PostMingle/static/css/main.53b355e0.css",
     "main.js": "/PostMingle/static/js/main.ab39da88.js",
     "static/media/page-not-found.png": "/PostMingle/static/media/page-not-found.e0dc74b7c4f1f96128e3.png",
     "static/media/guy-with-blue-coolas.jpg": "/PostMingle/static/media/guy-with-blue-coolas.98f68ec26bb0e5de58d5.jpg",
@@ -19,11 +19,11 @@
     "static/media/grandma-mom-daughter.jpg": "/PostMingle/static/media/grandma-mom-daughter.a983e01e68b68bf87238.jpg",
     "static/media/hidden-face-poses-for-girls-girls-hidden-face-sun-set.jpg": "/PostMingle/static/media/hidden-face-poses-for-girls-girls-hidden-face-sun-set.214f575cdb7d47f6bb19.jpg",
     "index.html": "/PostMingle/index.html",
-    "main.b9f6d1d0.css.map": "/PostMingle/static/css/main.b9f6d1d0.css.map",
+    "main.53b355e0.css.map": "/PostMingle/static/css/main.53b355e0.css.map",
     "main.ab39da88.js.map": "/PostMingle/static/js/main.ab39da88.js.map"
   },
   "entrypoints": [
-    "static/css/main.b9f6d1d0.css",
+    "static/css/main.53b355e0.css",
     "static/js/main.ab39da88.js"
   ]
 }
