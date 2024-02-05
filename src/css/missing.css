@@ -1,0 +1,32 @@
+.mainmissing{
+    /* background-color: blue; */
+     padding: 20px; 
+     text-align: center;
+     padding-top: 40px; 
+     display: grid;
+     place-content: center;
+}
+
+.missingcontainer
+{
+    /* background-color: pink; */
+    width: 400px;
+    max-width: 500px;
+} 
+
+.mainmissing h3
+{
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+.mainmissing p{
+    font-size: 0.8rem;
+    
+}
+
+.page-not-found-img
+{
+    width: 100px;
+    padding-bottom: 10px;
+}

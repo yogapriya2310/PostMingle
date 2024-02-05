@@ -1,0 +1,87 @@
+ 
+
+.postimg{
+  width: 100%;
+  height: auto;
+  border-radius: 3px;
+}
+
+.postsection
+{
+  /* background-color: yellowgreen; */
+  padding: 3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  list-style-type: none;
+  width: 100%;
+}
+
+.indivpost
+{
+   /* background-color: pink; */
+   padding: 8px;
+   max-width: 500px;
+   border-top: 1px solid var(--border-gray);
+   border-bottom: 1px solid var(--border-gray);
+   display: flex;
+   flex-direction: column;
+   row-gap: 5px;
+  padding-bottom: 0;
+  width: 100%;
+}
+
+.userdeco
+{
+  /* background-color: aquamarine; */
+  display: flex;
+  list-style-type: none;
+  align-items: center;
+  column-gap: 5px;
+  padding-left: 0;
+  
+}
+
+.userdeco li{
+  /* background-color: red; */
+  display: flex;
+  align-items: center;
+}
+
+.userdeco img{
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  /* background-color: blue;  */
+}
+
+.userdeco .username
+{
+  font-size: 10px;
+  font-weight: bold;
+  /* background-color: blueviolet; */
+}
+
+.postcontentdeco
+{
+  /* background-color: aquamarine; */
+  display: flex;
+  list-style-type: none;
+  column-gap: 5px;
+  padding-left: 0;
+}
+
+.postcontentdeco .username
+{
+  font-size: 10px;
+  font-weight: bolder;
+  
+}
+
+.postcontentdeco .posttitle{
+  font-size: 10px;
+}
+
+.indivpost .postCaption{
+  font-size: 12px;
+}
